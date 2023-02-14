@@ -1,4 +1,4 @@
-Component name	Version	GA Date    EOM	Date     EOL	Date
+Component name	               Version  GA Date   EOM	Date EOL	Date
 Citrix Workspace app for Linux	2302	1-Feb-23		1-Aug-24
 Citrix Workspace app for Linux	2212	1-Dec-22	1-Feb-23	1-Jun-24
 Citrix Workspace app for Linux	2211	8-Nov-22	1-Dec-22	8-May-24
@@ -15,11 +15,11 @@ Citrix Workspace app for Linux	2104	28-Apr-21	24-Jun-21	28-Oct-22
 Citrix Workspace app for Linux	2101	28-Jan-21	9-Mar-21	28-Jul-22
 Citrix Workspace app for Linux	2103	9-Mar-21	28-Apr-21	9-Sep-22
 Citrix Workspace app for Linux	2012	7-Dec-20	28-Jan-21	7-Jun-22
-Citrix Workspace app for Linux 	2010	29-Oct-20	7-Dec-20	29-Apr-22
-Citrix Workspace app for Linux 	2009	15-Sep-20	29-Oct-20	15-Mar-22
-Citrix Workspace app for Linux 	2006	30-Jun-20	15-Sep-21	30-Dec-21
-Citrix Workspace app for Linux 	2004 	20-Apr-20 	30-Jun-20	20-Oct-21
-Citrix Workspace app for Linux 	1912	12-Dec-19	20-Apr-20	12-Jun-21
+Citrix Workspace app for LinuxÂ 	2010	29-Oct-20	7-Dec-20	29-Apr-22
+Citrix Workspace app for LinuxÂ 	2009	15-Sep-20	29-Oct-20	15-Mar-22
+Citrix Workspace app for LinuxÂ 	2006	30-Jun-20	15-Sep-21	30-Dec-21
+Citrix Workspace app for LinuxÂ 	2004Â 	20-Apr-20Â 	30-Jun-20	20-Oct-21
+Citrix Workspace app for LinuxÂ 	1912	12-Dec-19	20-Apr-20	12-Jun-21
 Citrix Workspace app for Linux	1910	7-Oct-19	12-Dec-19	7-Apr-21
 Citrix Workspace app for Linux	1908	26-Aug-19	7-Oct-19	26-Feb-21
 Citrix Workspace app for Linux	1906	2-Jul-19	26-Aug-19	2-Jan-21
@@ -28,7 +28,7 @@ Citrix Workspace app for Linux	1901	6-Feb-19	28-Mar-19	6-Aug-20
 Citrix Workspace app for Linux	1810	29-Oct-18	6-Feb-19	29-Apr-20
 Citrix Workspace app for Linux	1809	12-Sep-18	29-Oct-18	12-Mar-20
 Citrix Workspace app for Linux	1808	9-Aug-18	12-Sep-18	9-Feb-20
-Citrix Workspace app for Linux	13.1	20-Jun-18	9-Aug-18    	20-Dec-19
+Citrix Workspace app for Linux	13.1	20-Jun-18	9-Aug-18Â  Â Â 	20-Dec-19
 Receiver for Linux	13.9.1	6-Mar-18	20-Jun-18	6-Sep-19
 Receiver for Linux	13.8	8-Dec-17	6-Mar-18	8-Jun-19
 Receiver for Linux	13.7	19-Sep-17	8-Dec-17	11-Jan-19
