@@ -1,5 +1,5 @@
 # CitrixVersions
-tables that map varios versions to build numbers etc
+tables that map various versions to build numbers etc
 
 TODO: Add VDA Build number to version number table
 
