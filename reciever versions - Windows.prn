@@ -34,22 +34,22 @@ Version Number                       Release Date
 12.1.0.30                            November, 2010
 12.3.0.8                             April, 2012
 13.0.0.6685 - Receiver 3.0           August, 2011
-13.1.0.89  - Receiver 3.1            December, 2011
-13.1.100.05  - Receiver 3.1          February, 2012
-13.1.200.22  - Receiver 3.2          June, 2012
-13.1.201.3  - Receiver 3.2           June, 2012
-13.1.300.8 -  - Receiver 3.2 CU 1    June, 2012
-13.3.0.55  - Receiver 3.3            July, 2012
-13.3.100.9  - Receiver 3.3 CU1       October, 2012
-13.4.0.25  - Receiver 3.4            December, 2012
+13.1.0.89Â  - Receiver 3.1            December, 2011
+13.1.100.05Â  - Receiver 3.1          February, 2012
+13.1.200.22Â  - Receiver 3.2          June, 2012
+13.1.201.3Â  - Receiver 3.2           June, 2012
+13.1.300.8 -Â  - Receiver 3.2 CU 1    June, 2012
+13.3.0.55Â  - Receiver 3.3            July, 2012
+13.3.100.9Â  - Receiver 3.3 CU1       October, 2012
+13.4.0.25Â  - Receiver 3.4            December, 2012
 13.4.100.7 - Receiver 3.4 CU 1       March, 2013
-13.4.200.11  - Receiver 3.4 CU 2     July, 2013
+13.4.200.11Â  - Receiver 3.4 CU 2     July, 2013
 13.4.300.10 - Receiver 3.4 CU 3      January, 2014
-13.4.400.09  - Receiver 3.4 CU 4     December, 2014
-14.0.0.91  - Receiver 4.0            June, 2013
-14.0.1.4  - Receiver 4.0.1           September, 2013
-14.1.0.0  - Receiver 4.1             October, 2013
-14.1.2.3  - Receiver 4.1.2           January, 2014
+13.4.400.09Â  - Receiver 3.4 CU 4     December, 2014
+14.0.0.91Â  - Receiver 4.0            June, 2013
+14.0.1.4Â  - Receiver 4.0.1           September, 2013
+14.1.0.0Â  - Receiver 4.1             October, 2013
+14.1.2.3Â  - Receiver 4.1.2           January, 2014
 14.1.100.12 - Receiver 4.1 CU 1      June, 2014
 14.1.200.13 - Receiver 4.1 CU 2      September, 2014
 14.2.0.10 - Receiver 4.2             December, 2014
@@ -59,8 +59,8 @@ Version Number                       Release Date
 14.4.0.8014 - Receiver 4.4 ( LTSR )  December, 2015
 14.5.0.10018 - Receiver 4.5          September, 2016
 14.6.0.12010- Receiver 4.6           December, 2016
-14.7.0.13011-Receiver 4.7            March, 2017
-14.8.0.1010- Receiver 4.8            June, 2017
+14.7.0.13011-ReceiverÂ 4.7            March, 2017
+14.8.0.1010- Receiver 4.8Â            June, 2017
 14.9.0.2539 Receiver 4.9 ( LTSR )    August, 2017
 4.9.1000.17 Receiver 4.9 LTSR CU1    November, 2017
 4.9.2000.21 Receiver 4.9 LTSR CU2    March, 2018
@@ -68,5 +68,5 @@ Version Number                       Release Date
 14.10.1.22 - Receiver 4.10.1         January, 2018
 14.11.0.17061 - Receiver 4.11        February, 2018
 14.12.0.18020 - Receiver 4.12        June, 2018
- 4.9.4000.9 Receiver 4.9 LTSR CU 4   August, 2018
+Â 4.9.4000.9 Receiver 4.9 LTSR CU 4   August, 2018
 4.9.5000.7 Receiver 4.9 LTSR CU 5    December, 2018
