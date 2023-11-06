@@ -1,5 +1,8 @@
-Component name	               Version  GA Date   EOM	Date EOL	Date
-Citrix Workspace app for Linux	2302	1-Feb-23		1-Aug-24
+Component name	               Version GA Date  EOM	Date  EOL	Date
+Citrix Workspace app for Linux 	2307 	6-Jul-23 	          	6-Jan-25
+Citrix Workspace app for Linux 	2305 	31-May-23 6-Jul-23 	30-Nov-24
+Citrix Workspace app for Linux 	2303 	23-Feb-22 31-May-23 23-Sep-24
+Citrix Workspace app for Linux	2302	1-Feb-23		        1-Aug-24
 Citrix Workspace app for Linux	2212	1-Dec-22	1-Feb-23	1-Jun-24
 Citrix Workspace app for Linux	2211	8-Nov-22	1-Dec-22	8-May-24
 Citrix Workspace app for Linux	2209	29-Sep-22	8-Nov-22	29-Mar-24
@@ -28,10 +31,10 @@ Citrix Workspace app for Linux	1901	6-Feb-19	28-Mar-19	6-Aug-20
 Citrix Workspace app for Linux	1810	29-Oct-18	6-Feb-19	29-Apr-20
 Citrix Workspace app for Linux	1809	12-Sep-18	29-Oct-18	12-Mar-20
 Citrix Workspace app for Linux	1808	9-Aug-18	12-Sep-18	9-Feb-20
-Citrix Workspace app for Linux	13.1	20-Jun-18	9-Aug-18    	20-Dec-19
-Receiver for Linux	13.9.1	6-Mar-18	20-Jun-18	6-Sep-19
-Receiver for Linux	13.8	8-Dec-17	6-Mar-18	8-Jun-19
-Receiver for Linux	13.7	19-Sep-17	8-Dec-17	11-Jan-19
-Receiver for Linux	13.0-13.6	12-Nov-13	11-Jul-17	11-Jan-19
-Receiver for Linux	12.x	24-Aug-11	12-Nov-14	12-Nov-15
-Receiver for Linux	11.x	31-Jan-09	31-Jan-12	31-Jan-13
+Citrix Workspace app for Linux	13.1	20-Jun-18	9-Aug-18  20-Dec-19
+Receiver for Linux	13.9.1	          6-Mar-18	20-Jun-18	6-Sep-19
+Receiver for Linux	13.8	            8-Dec-17	6-Mar-18	8-Jun-19
+Receiver for Linux	13.7	            19-Sep-17	8-Dec-17	11-Jan-19
+Receiver for Linux	13.0-13.6	        12-Nov-13	11-Jul-17	11-Jan-19
+Receiver for Linux	12.x	            24-Aug-11	12-Nov-14	12-Nov-15
+Receiver for Linux	11.x	            31-Jan-09	31-Jan-12	31-Jan-13
